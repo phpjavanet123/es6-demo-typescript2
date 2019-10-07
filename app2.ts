@@ -15,4 +15,4 @@ export default class Hero2 {
   }
   
   
-export {Hero2};
+//export {Hero2};

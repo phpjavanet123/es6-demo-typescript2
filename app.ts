@@ -1,5 +1,5 @@
 // app.ts
-import {Hero2} from './app2';
+import Hero2 from './app2';
 import {sum, product} from './app3';
 
 export class Hero {
