@@ -1,6 +1,6 @@
 // app.ts
 
-export default  class Hero2 {
+export default class Hero2 {
     id: number;
     name: string;
 
@@ -15,4 +15,4 @@ export default  class Hero2 {
   }
   
   
-//export default Hero2;
+export {Hero2};
